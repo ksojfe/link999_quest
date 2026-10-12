@@ -1,7 +1,6 @@
 {
   "whitelist": {
     "https://linkhuongdan.online/41-2/?qq=complete": "https://jibson.me/",
-    "https://linkhuongdan.online/101-2/?qq=complete": "https://cba.bz/",
     "https://linkhuongdan.online/109-2/?qq=complete": "https://stadtcafe.cc/",
     "https://linkhuongdan.online/111-2/?qq=complete": "https://energykaszino.top/vi-vn/",
     "https://linkhuongdan.online/118-2/?qq=complete": "https://oframiro.me/vi-vn/",
@@ -19,6 +18,7 @@
     "https://linkhuongdan.online/223-2/?qq=complete": "https://marklyndon.me/"
   },
   "blacklist": [
+    "https://linkhuongdan.online/101-2/?qq=complete",
     "https://linkhuongdan.online/153-2/?qq=complete",
     "https://linkhuongdan.online/213-3/?qq=complete"
   ]
